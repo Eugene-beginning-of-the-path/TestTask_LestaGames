@@ -38,5 +38,12 @@ int buffers::cycleBufferStack::getValue()
 void buffers::cycleBufferStack::show()
 {
 	for (int i = 0; i < buff.size(); i++)
-		std::cout << "";
+	{
+		if (i != buff.size() - 1)
+			std::cout << buff[i] << " --> ";
+		else
+			std::cout << buff[i];
+	}
+		
+	std::cout << std::endl;
 }

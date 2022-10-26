@@ -33,6 +33,9 @@
     <ClCompile Include="CycleBufferQueue.cpp">
       <Filter>Исходные файлы\Task 1\CycleBufferQueue</Filter>
     </ClCompile>
+    <ClCompile Include="DemonstrationTask1.cpp">
+      <Filter>Исходные файлы\Task 1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BufferError.h">

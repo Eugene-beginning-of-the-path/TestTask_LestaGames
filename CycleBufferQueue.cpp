@@ -42,7 +42,12 @@ int const buffers::cycleBufferQueue::getValue()
 void buffers::cycleBufferQueue::show()
 {
 	for (int i = 0; i < buff.size(); i++)
-		std::cout << buff[i] << '\t';
+	{
+		if (i != buff.size() - 1)
+			std::cout << buff[i] << " <-- ";
+		else
+			std::cout << buff[i];
+	}
 
 	std::cout << std::endl;
 }

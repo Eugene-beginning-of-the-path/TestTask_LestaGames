@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="CycleBufferQueue.cpp" />
     <ClCompile Include="CycleBufferStack.cpp" />
+    <ClCompile Include="DemonstrationTask1.cpp" />
     <ClCompile Include="TestTask.cpp" />
   </ItemGroup>
   <ItemGroup>
