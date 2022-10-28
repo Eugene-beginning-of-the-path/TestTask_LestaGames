@@ -143,6 +143,7 @@
     <ClCompile Include="CycleBufferStack.cpp" />
     <ClCompile Include="DemonstrationTask1.cpp" />
     <ClCompile Include="TestTask.cpp" />
+    <ClCompile Include="ToBinary.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BufferError.h" />

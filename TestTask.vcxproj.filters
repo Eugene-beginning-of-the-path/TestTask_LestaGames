@@ -22,6 +22,9 @@
     <Filter Include="Исходные файлы\Task 1\CycleBufferQueue">
       <UniqueIdentifier>{cfd22be8-fab1-4baf-bee6-ac7c8c85dfe1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\Task 2">
+      <UniqueIdentifier>{4cd45731-b1c2-4946-b5c0-5bfb091d633c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TestTask.cpp">
@@ -35,6 +38,9 @@
     </ClCompile>
     <ClCompile Include="DemonstrationTask1.cpp">
       <Filter>Исходные файлы\Task 1</Filter>
+    </ClCompile>
+    <ClCompile Include="ToBinary.cpp">
+      <Filter>Исходные файлы\Task 2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

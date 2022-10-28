@@ -1,1 +1,2 @@
 D:\Repositories\TestTask\x64\Debug\TestTask.exe
+D:\Codding\Repositories\TestTask\x64\Debug\TestTask.exe
