@@ -142,6 +142,7 @@
     <ClCompile Include="CycleBufferQueue.cpp" />
     <ClCompile Include="CycleBufferStack.cpp" />
     <ClCompile Include="DemonstrationTask1.cpp" />
+    <ClCompile Include="SortArray.cpp" />
     <ClCompile Include="TestTask.cpp" />
     <ClCompile Include="ToBinary.cpp" />
   </ItemGroup>

@@ -25,6 +25,9 @@
     <Filter Include="Исходные файлы\Task 2">
       <UniqueIdentifier>{4cd45731-b1c2-4946-b5c0-5bfb091d633c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\Task 3">
+      <UniqueIdentifier>{3d0a62ab-8b63-4a6c-a414-1db1896edbd7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TestTask.cpp">
@@ -41,6 +44,9 @@
     </ClCompile>
     <ClCompile Include="ToBinary.cpp">
       <Filter>Исходные файлы\Task 2</Filter>
+    </ClCompile>
+    <ClCompile Include="SortArray.cpp">
+      <Filter>Исходные файлы\Task 3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
